@@ -28,3 +28,10 @@
 **So sánh & Đánh giá:**
 - **Thực thi:** Hoàn thành quy trình compile và deploy hợp đồng `Greeter.sol` lên mạng thử nghiệm Sepolia.
 - **Kết quả:** Hiểu rõ cách tương tác trực tiếp với các hàm Read (`greet`) và Write (`setGreeting`) thông qua giao diện Deployed Contracts.
+## Lab 7: Phân quyền & Quản lý trạng thái
+
+**Prompt đã dùng:** "Hướng dẫn lập trình phân quyền onlyOwner và phát sự kiện Event trong Solidity..."
+
+**So sánh & Đánh giá:**
+- **Thực thi:** Đã viết, compile và triển khai hợp đồng `AccessControl.sol` thành công lên mạng thử nghiệm Sepolia.
+- **Kết quả:** Kiểm thử thành công cơ chế `modifier onlyOwner` — cho phép ví Owner cập nhật trạng thái và ngăn chặn hoàn toàn giao dịch từ các ví không đủ thẩm quyền.
