@@ -3,8 +3,8 @@
 ## 1. Thông tin Triển khai (Deployment Info)
 
 - **Tên Hợp đồng:** `Greeter.sol`
-- **Địa chỉ Hợp đồng (Contract Address):** `0x...` *(Dán địa chỉ hợp đồng thu được ở Mục Deployed Contracts)*
-- **Mã băm giao dịch triển khai (Deploy TxHash):** `0x...` *(Dán mã TxHash thu được ở Bước 3)*
+- **Địa chỉ Hợp đồng (Contract Address):** `0x3062acbd10e2B5D32A7c3492B7454Ce11092F24F` *(Dán địa chỉ hợp đồng thu được ở Mục Deployed Contracts)*
+- **Mã băm giao dịch triển khai (Deploy TxHash):** `0xbcec6c7843f767a046ccfa50b2c116a84e8e2cedc59c774c3b268f53fa035f2f` *(Dán mã TxHash thu được ở Bước 3)*
 - **Mạng thử nghiệm:** Sepolia Testnet
 
 ## 2. Nhật ký Tương tác Hợp đồng
