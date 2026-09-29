@@ -13,4 +13,11 @@
 **Cách sửa:** sinh viên đã làm gì.
 
 **Ai phát hiện:** AI tự nhận / Sinh viên phát hiện.
+## Lab 4: Nhận diện hợp đồng có rủi ro
 
+**Prompt đã dùng:** "Bạn là chuyên viên thẩm định rủi ro tài sản số. Dưới đây là mã nguồn một hợp đồng token..."
+
+**So sánh kết quả:**
+- **Đọc thủ công tìm được:** Phát hiện được hàm `mint` ở dòng 24 và hàm `blacklist` ở dòng 35.
+- **AI tìm thêm được:** AI chỉ ra thêm hàm `pause` ở dòng 45 mà lúc đọc bằng mắt thường dễ bị bỏ sót.
+- **Đánh giá AI:** AI phân tích chính xác, trả lời đúng số dòng và không tự bịa ra thông tin nhờ câu lệnh ràng buộc nghiêm ngặt trong prompt.
